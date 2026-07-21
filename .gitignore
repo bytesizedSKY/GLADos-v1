@@ -1,0 +1,16 @@
+
+venv/
+ENV/
+env/
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+user_data.txt
+user_backup.txt
+memory.txt
+user.txt
+
+.vscode/
